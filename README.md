@@ -60,7 +60,7 @@ Quick copy-paste templates
 
 - Contact badge (example):
 ```md
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/esmael-mohammed)
+portfolio: esam-dev.netlify.app
 ```
 
 If you'd like, I can:
