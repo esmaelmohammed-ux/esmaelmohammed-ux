@@ -1,17 +1,6 @@
 # Hi there, I'm Esmael Mohammed 👋
 <!-- Animated SVG hero -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1000 160" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
-  <title id="title">Esmael Mohammed - Fullstack Developer</title>
-  <desc id="desc">Animated header: greeting, role and university</desc>
 
-  <rect width="100%" height="100%" fill="#0f1724"/>
-  <g transform="translate(40,40)">
-    <text x="0" y="36" font-family="Inter, Arial, sans-serif" font-size="30" fill="#e6eef8">Hi, I'm <tspan fill="#7dd3fc">Esmael Mohammed</tspan> 👋</text>
-
-    
-      
-  </g>
-</svg>
 
 ---
 
