@@ -45,27 +45,3 @@ Get in touch
 - Email: esmael6360@gmail.com
 
 
-Animated README tips
-- The SVG at the top is live and self-contained — you can edit colors, text, and animation timings directly in this file.
-- If you want richer animations, consider adding animated GIF demos of apps (host them in /assets or use GitHub releases to store media).
-- Use GitHub Actions to automatically update stats or an animated GIF (e.g., record a short demo and push to the README on release).
-
-Quick copy-paste templates
-
-- Project card template:
-```md
-
-
-```
-
-- Contact badge (example):
-```md
-portfolio: esam-dev.netlify.app
-```
-
-If you'd like, I can:
-- customize the SVG hero's colors and animation to match your personal brand,
-- generate ready-to-use project cards for your top 3 repos,
-- and produce a small animated demo GIF template you can run locally and embed.
-
-Would you like me to customize the header colors and create project cards from your GitHub repos?
