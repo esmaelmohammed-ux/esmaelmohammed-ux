@@ -42,8 +42,8 @@ How I Work
 
 Get in touch
 - GitHub: https://github.com/esmaelmohammed-ux
-- Email: esmael.mohammed@example.com (replace with your preferred contact)
-- LinkedIn: https://www.linkedin.com/in/esmael-mohammed (optional: add your actual profile)
+- Email: esmael6360@gmail.com
+
 
 Animated README tips
 - The SVG at the top is live and self-contained — you can edit colors, text, and animation timings directly in this file.
