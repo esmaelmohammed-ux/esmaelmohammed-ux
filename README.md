@@ -1,5 +1,5 @@
 # Hi there, I'm Esmael Mohammed 👋
-<!-- Animated SVG hero -->
+
 
 
 ---
