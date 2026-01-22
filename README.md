@@ -1,79 +1,71 @@
-# Hi there 👋 I'm Esmael Mohammed
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23942
+Fork on GitHub
+8223
 
-I'm a 3rd-year Information Science student and a full‑stack developer at Haramaya University. I enjoy building user-centered web applications with a focus on accessibility, clean UI/UX, and practical backend systems.
+back to edit
 
----
+copy-markdown
 
-## 🚀 About Me
-- 🎓 3rd year, B.Sc. Information Science — Haramaya University  
-- 💼 Full‑stack developer at Haramaya University  
-- 🎯 Passionate about building accessible and well-designed web apps, learning modern backend patterns, and collaborating on open-source projects  
-- 🌱 Currently learning: advanced React patterns, backend architecture, and deployment best practices
+download markdown
 
----
+download backup
 
-## 🛠️ Tech & Tools
-A snapshot of technologies I use and am comfortable with:
+preview
+<h1 align="center">Hi 👋, I'm Esmael Mohammed</h1>
+<h3 align="center">A passionate fullstack developer from ethiopia</h3>
 
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
-- Backend: Node.js, Express, Python (Flask/Django)  
-- Databases: MongoDB, PostgreSQL  
-- Dev & Tools: Git, GitHub, Docker, VS Code  
-- Design & UX: Figma, accessibility best practices, responsive design  
-- Other: REST APIs, JWT, authentication, CI/CD basics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaelmohammed-ux&label=Profile%20views&color=0e75b6&style=flat" alt="esmaelmohammed-ux" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmaelmohammed-ux" alt="esmaelmohammed-ux" /></a> </p>
 
-## 🔭 Selected Projects
-(Replace the example links with your actual repository or live links)
+- 🌱 I’m currently learning **node.js,express,react**
 
-- **Personal Portfolio** — A responsive portfolio that showcases projects, blog posts, and contact information.  
-  Tech: React, Tailwind — Link: https://github.com/esmaelmohammed-ux/portfolio
+- 💬 Ask me about **node.js,react,express,**
 
-- **University Portal (sample)** — A CRUD web app for managing course materials and student records.  
-  Tech: Node.js, Express, MongoDB — Link: https://github.com/esmaelmohammed-ux/university-portal
+- 📫 How to reach me **esmaelmohammed437@gmail.com**
 
-- **Hackathon / Team Project** — A collaborative project built during a hackathon; focused on rapid prototyping and UX.  
-  Tech: React, Firebase — Link: https://github.com/esmaelmohammed-ux/hackathon-project
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@mohammedes71600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohammedes71600" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 💼 Experience
-- Full‑stack Developer — Haramaya University  
-  - Worked on internal tools and web services to improve student and faculty workflows.  
-  - Focus areas: frontend interfaces, REST APIs, database design, and basic deployment.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaelmohammed-ux&show_icons=true&locale=en&layout=compact" alt="esmaelmohammed-ux" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esmaelmohammed-ux&show_icons=true&locale=en" alt="esmaelmohammed-ux" /></p>
 
-## 🎓 Education
-Haramaya University — B.Sc. Information Science (3rd Year)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmaelmohammed-ux&" alt="esmaelmohammed-ux" /></p>
 
-Relevant coursework and topics: Data Structures, Databases, Web Development, Algorithms, Human‑Computer Interaction
-
----
-
-## 📫 Contact & Socials
-- Email: your.email@domain.com (replace with your email)  
-- GitHub: [esmaelmohammed-ux](https://github.com/esmaelmohammed-ux)  
-- LinkedIn: (add your LinkedIn URL)
-
-Prefer collaboration, feedback, or mentorship? Open an issue or start a discussion on any of my repos — I welcome contributions and pairing for projects.
-
----
-
-## 🤝 Contributing
-I appreciate feedback and contributions. If you'd like to contribute:
-1. Open an issue to discuss larger changes.
-2. Fork the repo, create a branch, and submit a PR with a clear description.
-3. For design or UX suggestions, include screenshots or Figma links.
-
----
-
-## 📝 Notes for customization
-- Replace placeholder links (portfolio, project repos) with actual URLs.
-- Add screenshots or GIFs for projects to show features and UI.
-- Add badges (build, languages, contact) if desired.
-
----
-
-Thanks for visiting — let's build something useful and beautiful!
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
