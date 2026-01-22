@@ -1,26 +1,103 @@
-<h1 align="center">Hi 👋, I'm Esmael Mohammed</h1>
-<h3 align="center">A passionate fullstack developer from ethiopia</h3>
+# Hi there, I'm Esmael Mohammed 👋
+<!-- Animated SVG hero -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1000 160" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">Esmael Mohammed - Fullstack Developer</title>
+  <desc id="desc">Animated header: greeting, role and university</desc>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaelmohammed-ux&label=Profile%20views&color=0e75b6&style=flat" alt="esmaelmohammed-ux" /> </p>
+  <rect width="100%" height="100%" fill="#0f1724"/>
+  <g transform="translate(40,40)">
+    <text x="0" y="36" font-family="Inter, Arial, sans-serif" font-size="30" fill="#e6eef8">Hi, I'm <tspan fill="#7dd3fc">Esmael Mohammed</tspan> 👋</text>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmaelmohammed-ux" alt="esmaelmohammed-ux" /></a> </p>
+    <!-- Animated sub-lines (fade in one after another) -->
+    <text x="0" y="72" font-family="Inter, Arial, sans-serif" font-size="16" fill="#bcd8f6" opacity="0">
+      Information Science — 3rd year · Haramaya University
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.8s" fill="freeze" />
+    </text>
 
-- 🌱 I’m currently learning **node.js,express,react**
+    <text x="0" y="96" font-family="Inter, Arial, sans-serif" font-size="16" fill="#bcd8f6" opacity="0">
+      Fullstack Developer · React · Node · Django · PostgreSQL
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.8s" fill="freeze" />
+    </text>
 
-- 💬 Ask me about **node.js,react,express,**
+    <!-- Simple animated dots (activity / "I'm active" indicator) -->
+    <g transform="translate(760,30)">
+      <circle cx="0" cy="0" r="6" fill="#60a5fa">
+        <animate attributeName="cy" values="0;10;0" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="20" cy="0" r="6" fill="#fb7185">
+        <animate attributeName="cy" values="0;12;0" dur="1s" begin="0.15s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.5;1" dur="1s" begin="0.15s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="40" cy="0" r="6" fill="#fbbf24">
+        <animate attributeName="cy" values="0;14;0" dur="1s" begin="0.3s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.5;1" dur="1s" begin="0.3s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </g>
+</svg>
 
-- 📫 How to reach me **esmaelmohammed437@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mohammedes71600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohammedes71600" height="30" width="40" /></a>
-</p>
+About Me
+- 🎓 Third-year Information Science student at Haramaya University
+- 💻 Fullstack developer — building web apps with a focus on clean UI and scalable backends
+- 🌱 Learning and experimenting with modern JavaScript, Python, and cloud deployment
+- 🔭 Interested in web performance, UX, and data-driven applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Skills
+- Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS, SASS
+- Backend: Node.js, Express, Django, REST APIs
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker, Vercel, Heroku
+- Languages: JavaScript (ES6+), TypeScript, Python
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaelmohammed-ux&show_icons=true&locale=en&layout=compact" alt="esmaelmohammed-ux" /></p>
+Featured Projects
+- Project Name — Short description of what it does, key technologies.
+  - Example: TaskFlow — a productivity app with React + Node + PostgreSQL. (Add repo link)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esmaelmohammed-ux&show_icons=true&locale=en" alt="esmaelmohammed-ux" /></p>
+- Project Name — Short description, features & impact.
+  - Example: UniPortal — student portal built with Django + React. (Add repo link)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esmaelmohammed-ux&" alt="esmaelmohammed-ux" /></p>
+How I Work
+- I prioritize readable, maintainable code and great UX.
+- I prefer component-driven development, test-first features and continuous deployment.
+- Open to collaboration and mentorship — I learn fast and enjoy building things that solve real problems.
+
+Get in touch
+- GitHub: https://github.com/esmaelmohammed-ux
+- Email: esmael.mohammed@example.com (replace with your preferred contact)
+- LinkedIn: https://www.linkedin.com/in/esmael-mohammed (optional: add your actual profile)
+
+Animated README tips
+- The SVG at the top is live and self-contained — you can edit colors, text, and animation timings directly in this file.
+- If you want richer animations, consider adding animated GIF demos of apps (host them in /assets or use GitHub releases to store media).
+- Use GitHub Actions to automatically update stats or an animated GIF (e.g., record a short demo and push to the README on release).
+
+Quick copy-paste templates
+
+- Project card template:
+```md
+### Project Name
+Short one-line summary.
+
+Built with: `React`, `Node.js`, `PostgreSQL`  
+Live: https://your-app.vercel.app · Repo: https://github.com/yourname/project-name
+
+Key features:
+- Feature 1
+- Feature 2
+- What I learned: performance optimization, auth flows, db design
+```
+
+- Contact badge (example):
+```md
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/esmael-mohammed)
+```
+
+If you'd like, I can:
+- customize the SVG hero's colors and animation to match your personal brand,
+- generate ready-to-use project cards for your top 3 repos,
+- and produce a small animated demo GIF template you can run locally and embed.
+
+Would you like me to customize the header colors and create project cards from your GitHub repos?
