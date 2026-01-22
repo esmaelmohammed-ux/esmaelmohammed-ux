@@ -8,32 +8,8 @@
   <g transform="translate(40,40)">
     <text x="0" y="36" font-family="Inter, Arial, sans-serif" font-size="30" fill="#e6eef8">Hi, I'm <tspan fill="#7dd3fc">Esmael Mohammed</tspan> 👋</text>
 
-    <!-- Animated sub-lines (fade in one after another) -->
-    <text x="0" y="72" font-family="Inter, Arial, sans-serif" font-size="16" fill="#bcd8f6" opacity="0">
-      Information Science — 3rd year · Haramaya University
-      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.8s" fill="freeze" />
-    </text>
-
-    <text x="0" y="96" font-family="Inter, Arial, sans-serif" font-size="16" fill="#bcd8f6" opacity="0">
-      Fullstack Developer · React · Node · Django · PostgreSQL
-      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.8s" fill="freeze" />
-    </text>
-
-    <!-- Simple animated dots (activity / "I'm active" indicator) -->
-    <g transform="translate(760,30)">
-      <circle cx="0" cy="0" r="6" fill="#60a5fa">
-        <animate attributeName="cy" values="0;10;0" dur="1s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="1;0.5;1" dur="1s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="20" cy="0" r="6" fill="#fb7185">
-        <animate attributeName="cy" values="0;12;0" dur="1s" begin="0.15s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="1;0.5;1" dur="1s" begin="0.15s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="40" cy="0" r="6" fill="#fbbf24">
-        <animate attributeName="cy" values="0;14;0" dur="1s" begin="0.3s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="1;0.5;1" dur="1s" begin="0.3s" repeatCount="indefinite" />
-      </circle>
-    </g>
+    
+      
   </g>
 </svg>
 
@@ -78,16 +54,8 @@ Quick copy-paste templates
 
 - Project card template:
 ```md
-### Project Name
-Short one-line summary.
 
-Built with: `React`, `Node.js`, `PostgreSQL`  
-Live: https://your-app.vercel.app · Repo: https://github.com/yourname/project-name
 
-Key features:
-- Feature 1
-- Feature 2
-- What I learned: performance optimization, auth flows, db design
 ```
 
 - Contact badge (example):
