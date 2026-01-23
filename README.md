@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmael Mohammed</h1>
 <h3 align="center">A passionate fullstack developer from ethiopia</h3>
-<p align="left"> <img src="file:///C:/Users/HP/Desktop/Screenshot%202026-01-23%20150442.png" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esmaelmohammed-ux" alt="esmaelmohammed-ux" /></a> </p>
 
