@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-Hi there! I'm Esmael Mohammed — a passionate Information Science student at Haraaya University and a dedicated fullstack developer. I thrive at the intersection of academic learning and hands-on software development, constantly exploring how technology can solve real-world problems.<br><br>As a developer, I enjoy crafting robust, user-centric applications from front to back—whether it's building responsive interfaces, designing scalable backends, or connecting everything through intuitive APIs. My studies in information science give me a unique perspective on data, systems, and how users interact with technology.<br><br>I'm always eager to learn, collaborate, and grow—whether through open-source contributions, hackathons, or meaningful projects. Let's connect and build something amazing! 🚀
+Hi there! I'm Esmael Mohammed — a passionate Information Science student at Haramaya University and a dedicated fullstack developer. I thrive at the intersection of academic learning and hands-on software development, constantly exploring how technology can solve real-world problems.<br><br>As a developer, I enjoy crafting robust, user-centric applications from front to back—whether it's building responsive interfaces, designing scalable backends, or connecting everything through intuitive APIs. My studies in information science give me a unique perspective on data, systems, and how users interact with technology.<br><br>I'm always eager to learn, collaborate, and grow—whether through open-source contributions, hackathons, or meaningful projects. Let's connect and build something amazing! 🚀
 
 
 ## 🌐 Socials:
